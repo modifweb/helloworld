@@ -1,6 +1,6 @@
 <?php
 /**
- * The header for our theme. by david de modifweb
+ * The header for our theme. by david de modifweb oh oui
  *
  * This is the template that displays all of the <head> section and everything up until <div id="content">
  *
